@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613798343406",
+    "project_id": "whats-87cfa",
+    "storage_bucket": "whats-87cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613798343406:android:776a49b46fac6bd669b9ff",
+        "android_client_info": {
+          "package_name": "com.whats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613798343406-utq274d7lej24ue4ulv42q7ot3u5b2vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElK8GBTdoCgEiYskGc7Pb72QfPqwwuJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613798343406-utq274d7lej24ue4ulv42q7ot3u5b2vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
